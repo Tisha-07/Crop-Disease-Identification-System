@@ -30,3 +30,5 @@ Farmers and agricultural workers struggle to identify plant diseases early, lead
 - Identify common diseases: Early Blight, Late Blight, Healthy plants 
 - Provide treatment recommendations for identified diseases 
 - Create a user-friendly web interface for easy access 
+ 
+"Last updated: 28-11-2025 16:05:41.92" 
