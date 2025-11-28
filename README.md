@@ -29,3 +29,5 @@ A Java-based intelligent system that uses machine learning to identify common cr
    ```bash
    git clone https://github.com/Tisha-07/crop-disease-identification-system.git
    cd crop-disease-identification-system
+ 
+"<!-- Crop Disease Identification System -->" 
