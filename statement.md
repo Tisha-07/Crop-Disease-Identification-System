@@ -32,3 +32,6 @@ Farmers and agricultural workers struggle to identify plant diseases early, lead
 - Create a user-friendly web interface for easy access 
  
 "Last updated: 28-11-2025 16:05:41.92" 
+ 
+"---" 
+"Project Documentation - Crop Disease Identification System" 
